@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Logo" src="https://github.com/perl-ide/.github/assets/perl-ide.png" height="240" />
+    <img alt="Logo" src="https://github.com/perl-ide/.github/blob/cc7a6aa62162093d00ffadcd86551862617e5558/assets/perl-ide.png" height="240" />
 </p>
 
 # Perl Development Environments (a.k.a. Perl IDE)
